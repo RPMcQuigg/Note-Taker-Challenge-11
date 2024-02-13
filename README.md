@@ -10,7 +10,7 @@ This application is simple note take that can save notes. This application will 
 - [Questions](#questions)
 
 ## Installation
-1.Clone the repo 2.Open the repo in the Terminal 3. Run node server.js 4. In in the web destination in you web browser(You can also follow this link)
+1.Clone the repo 2.Open the repo in the Terminal 3. Run node server.js 4. In in the web destination in you web browser(You can also follow this link https://note-taker-99ms.onrender.com/)
 
 ## Usage
 Used for storing note to a data base.
